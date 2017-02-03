@@ -2,6 +2,7 @@
 Boyer-Mooer Algorithm
 
 Time Unit ns
+
 for 10 times:
     average time spend of indexof method : 3677
     average time spend of BM Algo  : 56218
